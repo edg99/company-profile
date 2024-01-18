@@ -1,6 +1,6 @@
 === Company Profile ===
 
-Contributors: automattic
+Contributors: Edward
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
@@ -10,11 +10,13 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Company Profile.
-
 == Description ==
 
-Description
+This is a wordpress theme build from scratch based on Underscores (see credit), this theme does not require any Plugins.
+
+For now, overall components are responsive also in smaller screen but I don't made responsive style for smaller screen yet.
+
+Regards, Edward
 
 == Installation ==
 
@@ -22,7 +24,9 @@ Description
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-== Frequently Asked Questions ==
+== Plugins Support==
+
+No need to download additional plugins.
 
 = Does this theme support any plugins? =
 
@@ -30,7 +34,7 @@ Company Profile includes support for WooCommerce and for Infinite Scroll in Jetp
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - January 7 2024=
 * Initial release
 
 == Credits ==
